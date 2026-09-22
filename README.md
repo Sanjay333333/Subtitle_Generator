@@ -97,7 +97,3 @@ A fast, interactive web application built with **Gradio** and **stable-whisper**
 3. **Subtitle Post-Processing:** `sub_gen.py` formats the output using `split_by_length(max_chars=42)` and exports segment-level subtitle tracks into standard `.srt` format using the video's base filename.
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
